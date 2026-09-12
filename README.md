@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./denis_london_github_banner_animated.svg" width="100%">
+<img src="./london_magic_banner.svg" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=21&duration=3000&pause=1200&color=B784FF&center=true&vCenter=true&width=750&lines=Back-end+Developer;Java+%7C+Spring+Boot+%7C+SQL;Software+Engineering+Student;Somewhere+between+code+and+London." />
 
