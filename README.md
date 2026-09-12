@@ -6,9 +6,16 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/📍_Brazil-12001F?style=for-the-badge&labelColor=12001F&color=5B2A86">
-<img src="https://img.shields.io/badge/🇬🇧_London-12001F?style=for-the-badge&labelColor=12001F&color=5B2A86">
-<img src="https://img.shields.io/badge/☕_Java-12001F?style=for-the-badge&labelColor=12001F&color=5B2A86">
+<img src="https://img.shields.io/badge/Brazil-12001F?style=for-the-badge&logo=googlemaps&logoColor=B784FF&labelColor=12001F&color=5B2A86">
+<img src="https://img.shields.io/badge/London-12001F?style=for-the-badge&logo=googlemaps&logoColor=B784FF&labelColor=12001F&color=5B2A86">
+<img src="https://img.shields.io/badge/Java-12001F?style=for-the-badge&logo=openjdk&logoColor=B784FF&labelColor=12001F&color=5B2A86">
+<img src="https://img.shields.io/badge/Work_at-EDP_Brasil-12001F?style=for-the-badge&labelColor=12001F&color=5B2A86">
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/denisalvarenga/">
+<img src="https://img.shields.io/badge/LinkedIn-12001F?style=for-the-badge&logo=linkedin&logoColor=B784FF&labelColor=12001F&color=5B2A86">
+</a>
 
 </div>
 
@@ -16,7 +23,7 @@
 
 <div align="center">
 
-### 🌙 Somewhere between São Paulo and London
+### Somewhere between São Paulo and London
 
 *Code, rain, coffee and a long way ahead.*
 
@@ -24,110 +31,30 @@
 
 ---
 
-## 🏙️ About me
+## About me
 
 I'm Denis, a **Back-end Developer** focused on building reliable and well-structured systems.
 
 Currently developing my skills in:
 
-- ☕ Java
-- ⚡ Spring Boot
-- 🗄️ SQL & PostgreSQL
-- 🧠 Object-Oriented Programming
-- 🏗️ Software Architecture
-- 🌍 English
+- Java
+- Spring Boot
+- SQL & PostgreSQL
+- Object-Oriented Programming
+- Software Architecture
+- English
 
 I enjoy understanding what happens **behind the interface** — the logic, architecture, databases and systems that make software actually work.
 
 ---
 
-## 🚇 My journey
-
-```text
-                         🇬🇧 LONDON
-                             │
-                    ┌────────▼────────┐
-                    │     EXPLORE     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │      LEARN      │
-                    │ Java · SQL · OOP│
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │      BUILD      │
-                    │ Backend Systems │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │      GROW       │
-                    └─────────────────┘
-
-              Thames ── Underground ── Code
-```
-
----
-
-## ☕ Technologies
+## Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,git,github,php,linux">
-
-</div>
-
----
-
-## 🏰 Projects
-
-### ⚔️ IronMind Java
-
-Gym management system developed with **Java, OOP and PostgreSQL**, following a structured architecture.
-
-### 🏦 JavaBank
-
-Digital banking system developed in Java with a focus on **Object-Oriented Programming**.
-
-### 🧠 IronMind
-
-Intelligent workout assistant developed with PHP.
-
----
-
-## 🌧️ Currently
-
-```text
-☕ Improving my Java fundamentals
-🚇 Studying Software Engineering
-🗄️ Building backend projects
-🇬🇧 Improving my English
-📚 Reading
-🌙 Working quietly
-```
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=denisalvarenga&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisalvarenga&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true">
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/denisalvarenga/denisalvarenga/output/github-contribution-grid-snake-dark.svg">
+<img src="https://img.shields.io/badge/Java-12001F?style=for-the-badge&logo=openjdk&logoColor=B784FF&labelColor=12001F&color=5B2A86">
+<img src="https://img.shields.io/badge/Spring_Boot-12001F?style=for-the-badge&logo=spring&logoColor=B784FF&labelColor=12001F&color=5B2A86">
+<img src="https://img.shields.io/badge/PostgreSQL-12001F?style=for-the-badge&logo=postgresql&logoColor=B784FF&labelColor=12001F&color=5B2A86">
 
 </div>
 
@@ -135,16 +62,10 @@ Intelligent workout assistant developed with PHP.
 
 <div align="center">
 
-### 🚇 Mind the gap.
-
-*The journey matters as much as the destination.*
-
-<br>
-
-☕ **Java** · 🌧️ **London** · 💻 **Backend** · 📚 **Learning**
+**Java** · **London** · **Backend** · **Learning**
 
 <br><br>
 
-<sub>🦅 A quiet nod to Ravenclaw.</sub>
+<sub>A quiet nod to Ravenclaw.</sub>
 
 </div>
